@@ -1,2 +1,2 @@
 # Matplotlib-Challenge-Repo
-Challenge assignment for University of 
+Challenge assignment for University of Toronto
